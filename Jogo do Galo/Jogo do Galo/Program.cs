@@ -7,6 +7,7 @@ namespace Jogo_do_Galo
         static char[] arr = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
         static int jogador = 1;
         static int turno;
+        static char Jog;
         static int flag = 0;
         static void Main(string[] args)
         {
@@ -20,23 +21,26 @@ namespace Jogo_do_Galo
                 }
                 else
                 {
-                    Console.WriteLine("Turno do Jogador 'O'");
+                    Console.WriteLine("Turno do Jogador 'Y'");
                 }
                 Console.WriteLine("\n");
                 //Desenhar o tabuleiro
                 Tab();
                 turno = int.Parse(Console.ReadLine());
-                if (arr[turno] != 'X' && arr[turno] != 0) //Avançar o turno e reconhecer se o turno é do 'X' ou do 'O'
+                if (arr[turno] != 'X' && arr[turno] != 'O')//Avançar o turno e reconhecer se o turno é do 'X' ou do 'O'
                 {
                     if (jogador % 2 == 0)
                     {
                         arr[turno] = 'O';
                         jogador++;
+                        Jog = 'O';
                     }
                     else
                     {
                         arr[turno] = 'X';
                         jogador++;
+                        Jog = 'X';
+
                     }
                 }
                 else
@@ -53,11 +57,11 @@ namespace Jogo_do_Galo
             Tab();
             if (flag == 1)
             {
-                Console.WriteLine("Jogador {0} ganhou", (jogador % 2));
+                Console.WriteLine("Jogador '{0}' ganhou!", Jog);
             }
             else
             {
-                Console.WriteLine("Empate");
+                Console.WriteLine("Empate!");
             }
             Console.ReadLine();
         }
