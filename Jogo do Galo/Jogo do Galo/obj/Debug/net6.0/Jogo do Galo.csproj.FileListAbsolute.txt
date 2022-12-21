@@ -1,0 +1,15 @@
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.csproj.AssemblyReference.cache
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.AssemblyInfoInputs.cache
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.AssemblyInfo.cs
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.csproj.CoreCompileInputs.cache
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\bin\Debug\net6.0\Jogo do Galo.exe
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\bin\Debug\net6.0\Jogo do Galo.deps.json
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\bin\Debug\net6.0\Jogo do Galo.runtimeconfig.json
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\bin\Debug\net6.0\Jogo do Galo.dll
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\bin\Debug\net6.0\Jogo do Galo.pdb
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.dll
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\refint\Jogo do Galo.dll
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.pdb
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\Jogo do Galo.genruntimeconfig.cache
+C:\Users\kingofthevoi\source\repos\Jogo do Galo\Jogo do Galo\obj\Debug\net6.0\ref\Jogo do Galo.dll
